@@ -44,3 +44,4 @@ label = tk.Label(root, text=f"player {current_player}'s turn", font=("normal", 1
 label.grid(row=3, column=0, columnspan=3)
 
 root.mainloop()
+
